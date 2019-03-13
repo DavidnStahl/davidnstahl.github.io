@@ -62,9 +62,9 @@ hr {
     border-radius: 8px;
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 100;
-    padding: 40px;
+    padding: 20px;
     box-shadow: 1px 1px 20px 0px #000000;
     -webkit-box-shadow: 1px 1px 20px 0px #000000;
     -moz-box-shadow: 1px 1px 20px 0px #000000;
@@ -96,7 +96,7 @@ hr {
 }
 
 .bottom-container {
-
+ background-color: #66BFBF;
 }
 
 .top-cloud {
