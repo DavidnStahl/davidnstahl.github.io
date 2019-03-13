@@ -46,11 +46,28 @@ hr {
   margin: 100px auto;
 }
 
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px;
+}
+
 .lastline {
   margin-right: 80px;
 }
 
 .btn {
+
     background: #11CDD4;
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
     background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
@@ -96,7 +113,8 @@ hr {
 }
 
 .bottom-container {
- background-color: #66BFBF;
+background-color: #66BFBF;
+padding: 50px 0 20px;
 }
 
 .top-cloud {
@@ -136,3 +154,4 @@ hr {
   margin: 30px;
   float: right;
 }
+
